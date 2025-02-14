@@ -47,4 +47,4 @@ jobs:
           branch: gh-pages
           folder: src/.vuepress/dist
           token: ${{ secrets.BLOG }}
-          repository-name: peterzhangd/blog
+          repository-name: peterzhangd/peterzhangd.github.io
